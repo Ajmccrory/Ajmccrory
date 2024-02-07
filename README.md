@@ -1,4 +1,6 @@
 ### AJ McCrory
-* Currently working as a freelance developer through upwork, primarily on backend development and Python scripting
-* I have experience in Python, Golang, C, Java, React, Next.js, and frontend web languages like HTML5, Tailwind, and CSS.
-* I enjoy problem solving, troubleshooting, breaking things, and am motivated to work on any project that presents an interesting challenge.
+* Currently working as a freelance developer through Upwork.
+* I have project experience in Flask App Development and Docker unit deployment.
+* I have outside experience in Golang, javascript, and Next.js.
+* I am currently an Integrated Sciences and Technology Major with a concentration in Applied Computing at JMU.
+* I am open for work and always willing to work on an interesting project.
