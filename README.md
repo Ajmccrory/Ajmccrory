@@ -1,4 +1,4 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajmccrory&theme=radical)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajmccrory&theme=nord_dark)
 
 
 
