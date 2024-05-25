@@ -1,4 +1,4 @@
-# Welcome to AJ McCrory's GitHub Profile!
+# My name's AJ
 
 ## About Me
 
