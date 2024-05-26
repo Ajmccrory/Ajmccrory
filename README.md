@@ -10,7 +10,7 @@ I have experience in,
 - **Frontend Development:** React, Context API
 - **Containerization:** Docker
 - **CI/CD:** GitHub Actions
-- **Deployment:** AWS (EC2, S3, CloudFront
+- **Deployment:** AWS (EC2, S3, CloudFront)
 
 Connect with me at,
 - **Email:** [ajmccrory10@outlook.com](ajmccrory10@outlook.com)
