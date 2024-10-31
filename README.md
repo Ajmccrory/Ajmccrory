@@ -1,8 +1,9 @@
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajmccrory&theme=nord_dark)
-
 My name's AJ McCrory,
-I am a motivated software development enthusiast currently working on contract projects through Upwork. I am also a full-time student at James Madison University, majoring in Integrated Sciences and Technology with a concentration in Applied Computing. My passion lies in backend development and building scalable applications.
+I am a motivated software development enthusiast currently working as a Full Stack Developer with Advocara. 
+I am also a full-time student at James Madison University, majoring in Integrated Sciences and Technology with a concentration in Applied Computing.
+My passion lies in backend development and solving problems that don't want to be solved.
 
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajmccrory&theme=nord_dark)
 ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajmccrory&theme=nord_dark)
 
 Connect with me at,
