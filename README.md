@@ -5,7 +5,4 @@
 
 ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajmccrory&theme=nord_dark)
 
-### Connect with me at,
-- **Email:** [ajmccrory10@outlook.com](ajmccrory10@outlook.com)
-- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/aj-mccrory)
 
